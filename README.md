@@ -31,10 +31,6 @@ This repository serves as a practical resource for working with large-scale data
 
 Feel free to fork this repo and submit a pull request with improvements, bug fixes, or new PySpark examples!
 
-## 👨‍💻 Author
-
-**Aneez Rahman**  
-📫 [GitHub Profile](https://github.com/aneezx)
 
 ---
 
